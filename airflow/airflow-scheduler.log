@@ -58,3 +58,11 @@ Traceback (most recent call last):
 werkzeug.exceptions.Forbidden: 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
 2024-12-25 15:18:14,159 INFO - Resetting orphaned tasks for active dag runs
 2024-12-25 15:23:14,295 INFO - Resetting orphaned tasks for active dag runs
+2024-12-25 15:28:02,273 INFO - Exiting gracefully upon receiving signal 15
+2024-12-25 15:28:03,278 INFO - Sending Signals.SIGTERM to group 8047. PIDs of all processes in the group: [8047]
+2024-12-25 15:28:03,279 INFO - Sending the signal Signals.SIGTERM to group 8047
+2024-12-25 15:28:03,452 INFO - Process psutil.Process(pid=8047, status='terminated', exitcode=0, started='15:13:13') (8047) terminated with exit code 0
+2024-12-25 15:28:03,454 INFO - Sending Signals.SIGTERM to group 8047. PIDs of all processes in the group: []
+2024-12-25 15:28:03,454 INFO - Sending the signal Signals.SIGTERM to group 8047
+2024-12-25 15:28:03,455 INFO - Sending the signal Signals.SIGTERM to process 8047 as process group is missing.
+2024-12-25 15:28:03,455 INFO - Exited execute loop

@@ -6,3 +6,7 @@
 [2024-12-25 15:13:53 +0000] [8034] [CRITICAL] WORKER TIMEOUT (pid:8043)
 [2024-12-25 15:13:53 +0000] [8043] [INFO] Worker exiting (pid: 8043)
 [2024-12-25 15:13:53 +0000] [8347] [INFO] Booting worker with pid: 8347
+[2024-12-25 15:28:03 +0000] [8034] [INFO] Handling signal: term
+[2024-12-25 15:28:03 +0000] [8048] [INFO] Worker exiting (pid: 8048)
+[2024-12-25 15:28:03 +0000] [8347] [INFO] Worker exiting (pid: 8347)
+[2024-12-25 15:28:03 +0000] [8034] [INFO] Shutting down: Master

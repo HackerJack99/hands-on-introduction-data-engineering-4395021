@@ -59,3 +59,11 @@ Traceback (most recent call last):
 werkzeug.exceptions.Forbidden: 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.[0m
 [[34m2024-12-25T15:18:14.159+0000[0m] {[34mscheduler_job_runner.py:[0m1553} INFO[0m - Resetting orphaned tasks for active dag runs[0m
 [[34m2024-12-25T15:23:14.295+0000[0m] {[34mscheduler_job_runner.py:[0m1553} INFO[0m - Resetting orphaned tasks for active dag runs[0m
+[[34m2024-12-25T15:28:02.273+0000[0m] {[34mscheduler_job_runner.py:[0m247} INFO[0m - Exiting gracefully upon receiving signal 15[0m
+[[34m2024-12-25T15:28:03.278+0000[0m] {[34mprocess_utils.py:[0m131} INFO[0m - Sending Signals.SIGTERM to group 8047. PIDs of all processes in the group: [8047][0m
+[[34m2024-12-25T15:28:03.279+0000[0m] {[34mprocess_utils.py:[0m86} INFO[0m - Sending the signal Signals.SIGTERM to group 8047[0m
+[[34m2024-12-25T15:28:03.452+0000[0m] {[34mprocess_utils.py:[0m79} INFO[0m - Process psutil.Process(pid=8047, status='terminated', exitcode=0, started='15:13:13') (8047) terminated with exit code 0[0m
+[[34m2024-12-25T15:28:03.454+0000[0m] {[34mprocess_utils.py:[0m131} INFO[0m - Sending Signals.SIGTERM to group 8047. PIDs of all processes in the group: [][0m
+[[34m2024-12-25T15:28:03.454+0000[0m] {[34mprocess_utils.py:[0m86} INFO[0m - Sending the signal Signals.SIGTERM to group 8047[0m
+[[34m2024-12-25T15:28:03.455+0000[0m] {[34mprocess_utils.py:[0m100} INFO[0m - Sending the signal Signals.SIGTERM to process 8047 as process group is missing.[0m
+[[34m2024-12-25T15:28:03.455+0000[0m] {[34mscheduler_job_runner.py:[0m864} INFO[0m - Exited execute loop[0m
