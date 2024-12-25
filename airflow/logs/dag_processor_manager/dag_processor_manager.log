@@ -2220,3 +2220,9 @@ File Path                                                                       
 [2024-12-25T15:27:25.666+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
 [2024-12-25T15:27:27.955+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
 [2024-12-25T15:27:27.969+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:31.067+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:31.081+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:33.356+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:33.370+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:35.817+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:35.832+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
