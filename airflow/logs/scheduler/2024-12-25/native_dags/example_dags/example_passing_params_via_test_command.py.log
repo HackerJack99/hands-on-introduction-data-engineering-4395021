@@ -72,3 +72,9 @@
 [2024-12-25T15:20:42.540+0000] {logging_mixin.py:150} INFO - [2024-12-25T15:20:42.539+0000] {dag.py:2742} INFO - Sync 1 DAGs
 [2024-12-25T15:20:42.560+0000] {logging_mixin.py:150} INFO - [2024-12-25T15:20:42.560+0000] {dag.py:3504} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-12-25T15:19:00+00:00, run_after=2024-12-25T15:20:00+00:00
 [2024-12-25T15:20:42.577+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.063 seconds
+[2024-12-25T15:21:27.166+0000] {processor.py:157} INFO - Started process (PID=12843) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-12-25T15:21:27.167+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-12-25T15:21:27.168+0000] {logging_mixin.py:150} INFO - [2024-12-25T15:21:27.168+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-12-25T15:21:27.178+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-12-25T15:21:27.198+0000] {logging_mixin.py:150} INFO - [2024-12-25T15:21:27.197+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-12-25T15:21:27.239+0000] {logging_mixin.py:150} INFO - [2024-12-25T15:21:27.239+0000] {dag.py:3504} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-12-25T15:20:00+00:00, run_after=2024-12-25T15:21:00+00:00
