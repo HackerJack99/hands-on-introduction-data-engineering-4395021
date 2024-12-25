@@ -83,3 +83,23 @@
 [2024-12-25T15:23:57.332+0000] {logging_mixin.py:150} INFO - [2024-12-25T15:23:57.332+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
 [2024-12-25T15:23:57.334+0000] {processor.py:838} WARNING - No viable dags retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
 [2024-12-25T15:23:57.340+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.011 seconds
+[2024-12-25T15:24:39.108+0000] {processor.py:157} INFO - Started process (PID=14981) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:24:39.109+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-12-25T15:24:39.110+0000] {logging_mixin.py:150} INFO - [2024-12-25T15:24:39.109+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:24:39.111+0000] {processor.py:838} WARNING - No viable dags retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:24:39.118+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.011 seconds
+[2024-12-25T15:25:12.167+0000] {processor.py:157} INFO - Started process (PID=15309) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:25:12.168+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-12-25T15:25:12.169+0000] {logging_mixin.py:150} INFO - [2024-12-25T15:25:12.169+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:25:12.171+0000] {processor.py:838} WARNING - No viable dags retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:25:12.180+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.016 seconds
+[2024-12-25T15:25:55.434+0000] {processor.py:157} INFO - Started process (PID=15732) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:25:55.434+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-12-25T15:25:55.435+0000] {logging_mixin.py:150} INFO - [2024-12-25T15:25:55.435+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:25:55.437+0000] {processor.py:838} WARNING - No viable dags retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:25:55.443+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.012 seconds
+[2024-12-25T15:26:39.695+0000] {processor.py:157} INFO - Started process (PID=16313) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:26:39.695+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-12-25T15:26:39.696+0000] {logging_mixin.py:150} INFO - [2024-12-25T15:26:39.696+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:26:39.698+0000] {processor.py:838} WARNING - No viable dags retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-25T15:26:39.705+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.012 seconds

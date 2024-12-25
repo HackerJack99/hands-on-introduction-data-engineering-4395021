@@ -1760,3 +1760,396 @@ File Path                                                                       
 [2024-12-25T15:24:28.258+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
 [2024-12-25T15:24:31.092+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
 [2024-12-25T15:24:31.106+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:33.157+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:33.174+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:35.868+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:35.882+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:38.158+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:38.183+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:40.239+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:40.253+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:42.529+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:42.543+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:45.378+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:45.392+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:47.672+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:47.686+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:50.517+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:50.531+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:51.134+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.11s           2024-12-25T15:24:19
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   0           0  0.10s           2024-12-25T15:24:20
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2024-12-25T15:24:28
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            0           0  0.10s           2024-12-25T15:24:33
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2024-12-25T15:24:24
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2024-12-25T15:24:26
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2024-12-25T15:24:39
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.10s           2024-12-25T15:24:11
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.11s           2024-12-25T15:24:51
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2024-12-25T15:24:35
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2024-12-25T15:24:13
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2024-12-25T15:24:35
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2024-12-25T15:24:14
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2024-12-25T15:24:15
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2024-12-25T15:24:40
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2024-12-25T15:24:16
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.11s           2024-12-25T15:24:12
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2024-12-25T15:24:13
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.21s           2024-12-25T15:24:18
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.11s           2024-12-25T15:24:27
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2024-12-25T15:23:55
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2024-12-25T15:23:56
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2024-12-25T15:24:09
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2024-12-25T15:24:28
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2024-12-25T15:24:21
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2024-12-25T15:24:42
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2024-12-25T15:24:43
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2024-12-25T15:24:23
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2024-12-25T15:24:44
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2024-12-25T15:24:23
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.11s           2024-12-25T15:24:38
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2024-12-25T15:24:10
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2024-12-25T15:24:30
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2024-12-25T15:24:45
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2024-12-25T15:24:31
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2024-12-25T15:24:32
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  1           0  0.10s           2024-12-25T15:24:47
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.20s           2024-12-25T15:24:49
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2024-12-25T15:24:49
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2024-12-25T15:24:50
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2024-12-25T15:24:34
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.11s           2024-12-25T15:24:41
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.10s           2024-12-25T15:24:17
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2024-12-25T15:24:37
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2024-12-25T15:24:46
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2024-12-25T15:24:08
+================================================================================
+[2024-12-25T15:24:53.296+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:53.310+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:55.658+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:55.672+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:57.947+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:24:57.969+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:00.831+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:00.846+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:03.120+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:03.138+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:05.860+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:05.875+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:08.434+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:08.448+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:10.999+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:11.013+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:13.289+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:13.303+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:15.617+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:15.631+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:17.908+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:17.922+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:20.138+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:20.152+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:21.405+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2024-12-25T15:25:03
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   0           0  0.10s           2024-12-25T15:25:04
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2024-12-25T15:25:14
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            0           0  0.10s           2024-12-25T15:25:18
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2024-12-25T15:25:09
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.11s           2024-12-25T15:25:11
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2024-12-25T15:25:12
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.10s           2024-12-25T15:24:54
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.11s           2024-12-25T15:24:51
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2024-12-25T15:25:20
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2024-12-25T15:24:58
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2024-12-25T15:25:21
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2024-12-25T15:24:59
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2024-12-25T15:24:59
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2024-12-25T15:24:40
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2024-12-25T15:25:00
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2024-12-25T15:24:55
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2024-12-25T15:24:56
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2024-12-25T15:25:03
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2024-12-25T15:25:13
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2024-12-25T15:24:52
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2024-12-25T15:24:53
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2024-12-25T15:25:06
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2024-12-25T15:25:13
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2024-12-25T15:25:05
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2024-12-25T15:24:42
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2024-12-25T15:24:43
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2024-12-25T15:25:07
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2024-12-25T15:24:44
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2024-12-25T15:25:08
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.11s           2024-12-25T15:24:38
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2024-12-25T15:25:09
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2024-12-25T15:25:15
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2024-12-25T15:24:45
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2024-12-25T15:25:15
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2024-12-25T15:25:16
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  1           0  0.10s           2024-12-25T15:24:47
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.20s           2024-12-25T15:24:49
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2024-12-25T15:24:49
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2024-12-25T15:24:50
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2024-12-25T15:25:19
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.11s           2024-12-25T15:24:41
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.10s           2024-12-25T15:25:02
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2024-12-25T15:24:37
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2024-12-25T15:24:46
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2024-12-25T15:24:53
+================================================================================
+[2024-12-25T15:25:22.435+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:22.450+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:24.989+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:25.003+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:27.676+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:27.690+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:29.969+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:29.983+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:32.817+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:32.847+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:35.123+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:35.137+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:37.568+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:37.582+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:39.857+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:39.872+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:41.964+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:41.978+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:44.123+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:44.140+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:47.103+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:47.117+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:49.397+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:49.419+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:51.568+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:51.581+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:51.698+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2024-12-25T15:25:48
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   0           0  0.11s           2024-12-25T15:25:49
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2024-12-25T15:25:14
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            0           0  0.10s           2024-12-25T15:25:18
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2024-12-25T15:25:09
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.11s           2024-12-25T15:25:11
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2024-12-25T15:25:12
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.10s           2024-12-25T15:25:38
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2024-12-25T15:25:35
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2024-12-25T15:25:20
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2024-12-25T15:25:42
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2024-12-25T15:25:21
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2024-12-25T15:25:43
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2024-12-25T15:25:44
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2024-12-25T15:25:23
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2024-12-25T15:25:45
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2024-12-25T15:25:39
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.11s           2024-12-25T15:25:40
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2024-12-25T15:25:47
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2024-12-25T15:25:13
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2024-12-25T15:25:35
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2024-12-25T15:25:36
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2024-12-25T15:25:51
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2024-12-25T15:25:13
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2024-12-25T15:25:50
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2024-12-25T15:25:25
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2024-12-25T15:25:26
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2024-12-25T15:25:51
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2024-12-25T15:25:27
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2024-12-25T15:25:08
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2024-12-25T15:25:23
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2024-12-25T15:25:09
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2024-12-25T15:25:15
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2024-12-25T15:25:28
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2024-12-25T15:25:15
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2024-12-25T15:25:16
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  1           0  0.10s           2024-12-25T15:25:30
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2024-12-25T15:25:31
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2024-12-25T15:25:32
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2024-12-25T15:25:34
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2024-12-25T15:25:19
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2024-12-25T15:25:25
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.10s           2024-12-25T15:25:46
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2024-12-25T15:25:22
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2024-12-25T15:25:30
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2024-12-25T15:25:37
+================================================================================
+[2024-12-25T15:25:53.862+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:53.875+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:56.242+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:56.255+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:58.538+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:25:58.560+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:00.836+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:00.850+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:03.674+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:03.688+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:06.541+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:06.555+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:08.997+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:09.011+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:11.285+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:11.299+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:13.982+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:13.995+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:16.845+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:16.859+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:19.140+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:19.153+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:21.428+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:21.442+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:21.972+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2024-12-25T15:25:48
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   0           0  0.11s           2024-12-25T15:25:49
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2024-12-25T15:25:58
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            0           0  0.10s           2024-12-25T15:26:02
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2024-12-25T15:25:53
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2024-12-25T15:25:54
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2024-12-25T15:25:55
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.10s           2024-12-25T15:26:09
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2024-12-25T15:26:21
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2024-12-25T15:26:04
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2024-12-25T15:25:42
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2024-12-25T15:26:05
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2024-12-25T15:25:43
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2024-12-25T15:25:44
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2024-12-25T15:26:10
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2024-12-25T15:25:45
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2024-12-25T15:25:39
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.11s           2024-12-25T15:25:40
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2024-12-25T15:25:47
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2024-12-25T15:25:56
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2024-12-25T15:26:21
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2024-12-25T15:25:36
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2024-12-25T15:25:51
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2024-12-25T15:25:57
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2024-12-25T15:25:50
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2024-12-25T15:26:11
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.11s           2024-12-25T15:26:12
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2024-12-25T15:25:51
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2024-12-25T15:26:14
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2024-12-25T15:25:52
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.11s           2024-12-25T15:26:06
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2024-12-25T15:26:07
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2024-12-25T15:25:59
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2024-12-25T15:26:14
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2024-12-25T15:26:00
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2024-12-25T15:26:01
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  1           0  0.10s           2024-12-25T15:26:16
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2024-12-25T15:26:18
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2024-12-25T15:26:19
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2024-12-25T15:26:20
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2024-12-25T15:26:03
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2024-12-25T15:26:11
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.10s           2024-12-25T15:25:46
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2024-12-25T15:26:06
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2024-12-25T15:26:15
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2024-12-25T15:25:37
+================================================================================
+[2024-12-25T15:26:24.277+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:24.291+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:27.065+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:27.079+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:29.365+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:29.379+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:31.653+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:31.667+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:34.516+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:34.530+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:37.001+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:37.015+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:39.663+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:39.677+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:41.958+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:41.972+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:44.798+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:44.817+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:47.337+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:47.351+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:50.046+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:50.060+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:52.158+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:52.172+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:52.289+0000] {manager.py:889} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2024-12-25T15:26:33
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   0           0  0.10s           2024-12-25T15:26:34
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2024-12-25T15:26:42
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            0           0  0.10s           2024-12-25T15:26:46
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2024-12-25T15:26:24
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2024-12-25T15:26:38
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2024-12-25T15:26:39
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.10s           2024-12-25T15:26:09
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2024-12-25T15:26:21
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2024-12-25T15:26:47
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2024-12-25T15:26:27
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2024-12-25T15:26:49
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2024-12-25T15:26:28
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2024-12-25T15:26:29
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2024-12-25T15:26:10
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2024-12-25T15:26:30
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2024-12-25T15:26:24
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2024-12-25T15:26:26
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.11s           2024-12-25T15:26:32
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2024-12-25T15:26:40
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2024-12-25T15:26:21
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2024-12-25T15:26:22
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.11s           2024-12-25T15:26:36
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2024-12-25T15:26:42
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2024-12-25T15:26:35
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2024-12-25T15:26:11
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.11s           2024-12-25T15:26:12
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2024-12-25T15:26:37
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2024-12-25T15:26:14
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.11s           2024-12-25T15:26:37
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2024-12-25T15:26:51
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2024-12-25T15:26:52
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2024-12-25T15:26:43
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2024-12-25T15:26:14
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.11s           2024-12-25T15:26:44
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2024-12-25T15:26:45
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  1           0  0.10s           2024-12-25T15:26:16
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2024-12-25T15:26:18
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2024-12-25T15:26:19
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2024-12-25T15:26:20
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2024-12-25T15:26:47
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2024-12-25T15:26:11
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.10s           2024-12-25T15:26:31
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2024-12-25T15:26:50
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2024-12-25T15:26:15
+/home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.11s           2024-12-25T15:26:23
+================================================================================
+[2024-12-25T15:26:55.177+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:55.191+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:57.466+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:26:57.480+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:00.317+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:00.331+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:02.613+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:02.627+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:05.333+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:05.347+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:08.322+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:08.336+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:10.625+0000] {manager.py:758} INFO - Searching for files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
+[2024-12-25T15:27:10.640+0000] {manager.py:761} INFO - There are 46 files in /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags
